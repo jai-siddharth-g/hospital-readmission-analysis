@@ -144,12 +144,21 @@ Dashboard includes:
 
 ## Dashboard Preview
 
-## Dashboard Preview
-
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/7936d200-e567-4a46-a77a-1556eb01d5df)
 
 ---
+---
 
+## Live Dashboard
+
+Explore the interactive Tableau dashboard:
+
+🔗 **Tableau Public:**  
+https://public.tableau.com/views/Hospital_Readmission_Dashboard_Portfolio/HospitalReadmissionDashboard
+
+The dashboard provides dynamic filtering, financial scenario analysis, and risk segmentation insights for healthcare decision-making.
+
+---
 ## Repository Structure
 
 ```
@@ -169,6 +178,7 @@ hospital-readmission-analysis/
 │
 └── README.md
 ```
+The project workflow follows a structured pipeline from raw data ingestion to cleaned datasets, analytical modeling, and final dashboard visualization.
 ---
 
 ## How to Run
