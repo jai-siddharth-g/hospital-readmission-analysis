@@ -156,6 +156,7 @@ Dashboard includes:
 hospital-readmission-analysis/
 │
 ├── data/
+│   ├── diabetic_raw_data.csv
 │   ├── hospital_cleaned.csv
 │   ├── roi_data.csv
 │   └── savings_per_patient.csv
@@ -164,11 +165,10 @@ hospital-readmission-analysis/
 │   └── Hospital_Readmission_Dashboard.twbx
 │
 ├── notebooks/
-│   └── hospital_readmission_analysis.ipynb
+│   └── Hospital_readmission_analysis.ipynb
 │
 └── README.md
 ```
-
 ---
 
 ## How to Run
